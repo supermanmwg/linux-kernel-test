@@ -1,0 +1,1 @@
+cmd_/home/ams/linux-kernel/test/kthread/rcu_thread.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-36-generic/scripts/module-common.lds --build-id  -o /home/ams/linux-kernel/test/kthread/rcu_thread.ko /home/ams/linux-kernel/test/kthread/rcu_thread.o /home/ams/linux-kernel/test/kthread/rcu_thread.mod.o
