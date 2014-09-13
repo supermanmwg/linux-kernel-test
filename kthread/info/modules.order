@@ -1,9 +1,0 @@
-kernel//home/ams/linux-kernel/test/kthread/spinlock.ko
-kernel//home/ams/linux-kernel/test/kthread/rcuthread.ko
-kernel//home/ams/linux-kernel/test/kthread/callrcu.ko
-kernel//home/ams/linux-kernel/test/kthread/mutex.ko
-kernel//home/ams/linux-kernel/test/kthread/semaphore.ko
-kernel//home/ams/linux-kernel/test/kthread/rwsem.ko
-kernel//home/ams/linux-kernel/test/kthread/completion.ko
-kernel//home/ams/linux-kernel/test/kthread/rwlock.ko
-kernel//home/ams/linux-kernel/test/kthread/test_bit.ko
